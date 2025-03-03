@@ -1,0 +1,13 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "loginTest.js",
+  "scripts": {
+    "start": "node loginTest.js"
+  },
+  "dependencies": {
+    "puppeteer": "^19.0.0",
+    "axios": "^0.27.2"
+  }
+}
