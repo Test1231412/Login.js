@@ -2,7 +2,7 @@ const puppeteer = require('puppeteer');
 const axios = require('axios');
 
 // الرابط الجديد لملف الباسوردات
-const passwordsUrl = 'https://raw.githubusercontent.com/jeanphorn/wordlist/master/rdp_passlist.txt';
+const passwordsUrl = 'https://raw.githubusercontent.com/Test1231412/Login.js/main/Password.txt';
 
 // دالة لتحميل البيانات من GitHub باستخدام axios
 async function loadFile(url) {
